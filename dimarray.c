@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-// prototype
+// prototype yourself
 
 double **dimarray( int x, int y )
 {
